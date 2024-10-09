@@ -1,0 +1,10 @@
+Flask
+Werkzeug
+Pillow
+numpy
+opencv-python
+torch
+tensorflow
+ultralytics
+
+## Download models from the link provided here: https://drive.google.com/drive/folders/12Z-BhtcsNOBii63Z6tVSgxTs2srxZR0n?usp=sharing
